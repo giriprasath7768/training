@@ -33,7 +33,7 @@ public class Vistorpage extends Testbase {
 	
 	public String getboxtitle()
 	{
-		System.out.println(visboxtitle.getText());
+		
 		return visboxtitle.getText();
 		
 	}
